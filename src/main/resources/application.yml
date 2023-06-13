@@ -1,0 +1,7 @@
+spring:
+  rabbitmq:
+    username: david
+    password: newPass
+  output:
+    ansi:
+      enabled: ALWAYS
